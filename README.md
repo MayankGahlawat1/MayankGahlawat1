@@ -1,5 +1,7 @@
+<img src="Navy Blue Modern Developer LinkedIn Banner.jpg" alt="MAINHEAD">
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A B.Tech CSE Student & Aspiring Data Scientist from India</h3>
+<img align="right" alt="coding" width="400"  src="https://trendlyne-media-mumbai-new.s3.amazonaws.com/post-files/2023-01-24/3920733-bddfe40abbee4fe48f94a570db9a7252.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankgahlawat1&label=Profile%20views&color=0e75b6&style=flat" alt="mayankgahlawat1" /> </p>
 
